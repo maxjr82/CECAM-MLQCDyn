@@ -1,6 +1,7 @@
 # CECAM 2022 - MLQCDyn school 
 
 ![python version](https://img.shields.io/badge/python-3.8-blue?logo=python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxjr82/CECAM-MLQCDyn/blob/main/tutorial/UL_for_MD.ipynb)
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 Welcome to the repository for the unsupervised learning tutorial lecture of the [*Machine Learning 
@@ -46,7 +47,7 @@ The following Python packages are necessary to run the tutorial:
   - ase (atomic simulation environment)
   - py3Dmol
 
-The tutorial can be also executed on-line via [Google Colab](https://colab.research.google.com/).
+The tutorial can be also executed on-line via [Google Colab](https://colab.research.google.com/github).
 
 ## References
 
