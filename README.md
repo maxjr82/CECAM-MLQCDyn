@@ -3,15 +3,14 @@
 ![python version](https://img.shields.io/badge/python-3.8-blue?logo=python)
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-Welcome to the repository for the unsupervised learning tutorial lecture of the *Machine Learning 
-and Quantum Computing for Quantum Molecular Dynamics* (MLQCDyn) school hosted by the Pascal Institute 
-of the University Paris-Saclay. This repository contains a Jupyter Notebook with Python code to 
+Welcome to the repository for the unsupervised learning tutorial lecture of the [*Machine Learning 
+and Quantum Computing for Quantum Molecular Dynamics* - MLQCDyn](https://www.cecam.org/workshop-details/1133) 
+school hosted by the Pascal Institute of the University Paris-Saclay. This repository contains a Jupyter Notebook with Python code to 
 demonstrate, in practice, the application of the popular unsupervised learning methods (dimensionality
 reduction and clustering) to analyze molecular dynamics data and extract useful chemical insights. The
 popular [MD17 database](http://www.sgdml.org/#datasets) generated from *ab initio* molecular dynamics 
 simulations is used as a motivating example for the analyses presented in the tutorial.
 
-https://www.cecam.org/workshop-details/1133
 
 ## Main topics covered in this tutorial 
 
