@@ -52,3 +52,4 @@ The tutorial can be also executed on-line via [Google Colab](https://colab.resea
 
 1. A. Glielmo, B. E. Husic, A. Rodriguez, C. Clementi, F. Noé, and A. Laio, *Chem. Rev.*, 2021, **121** (16), 9722-9758
 2. M. Ceriotti, *J. Chem. Phys.*, 2019, **150**, 150901
+3. T. Hastie, R. Tibshirani, J. Friedman, *The Elements of Statistical Learning: Data Mining, Inference*, and Prediction, 2nd ed., Springer-Verlag, New York, 2009
