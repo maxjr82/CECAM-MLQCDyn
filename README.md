@@ -5,10 +5,10 @@
 
 Welcome to the repository for the unsupervised learning tutorial lecture of the [*Machine Learning 
 and Quantum Computing for Quantum Molecular Dynamics* - MLQCDyn](https://www.cecam.org/workshop-details/1133) 
-school hosted by the Pascal Institute of the University Paris-Saclay. This repository contains a Jupyter Notebook with Python code to 
-demonstrate, in practice, the application of the popular unsupervised learning methods (dimensionality
-reduction and clustering) to analyze molecular dynamics data and extract useful chemical insights. The
-popular [MD17 database](http://www.sgdml.org/#datasets) generated from *ab initio* molecular dynamics 
+school held in September 2022 in the Université Gustave Eiffel, Paris. This repository contains a Jupyter Notebook 
+with Python code to demonstrate, in practice, the application of the popular unsupervised learning methods 
+(dimensionality reduction and clustering) to analyze molecular dynamics data and extract useful chemical insights. 
+The popular [MD17 database](http://www.sgdml.org/#datasets) generated from *ab initio* molecular dynamics 
 simulations is used as a motivating example for the analyses presented in the tutorial.
 
 
