@@ -50,10 +50,7 @@ The tutorial can be also executed on-line via [Google Colab](https://colab.resea
 
 ## References
 
-[1.](https://hastie.su.domains/Papers/ESLII.pdf) T. Hastie, R. Tibshirani, J. Friedman, *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, 2nd ed., Springer-Verlag, New York, 2009
-
-[2.](https://doi.org/10.1021/acs.chemrev.0c01195) A. Glielmo, B. E. Husic, A. Rodriguez, C. Clementi, F. Noé, and A. Laio, *Chem. Rev.*, 2021, **121** (16), 9722-9758 [](https://doi.org/10.1021/acs.chemrev.0c01195)
-
-[3.](https://doi.org/10.1063/1.5091842) M. Ceriotti, *J. Chem. Phys.*, 2019, **150**, 150901
-
-[4.](http://dx.doi.org/10.1007/s00894-012-1563-4) A. Wolf, and K. N. Kirschner, *J. Mol. Model.*, 2013, **19**, 539–549
+1. T. Hastie, R. Tibshirani, and J. Friedman, [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction*](https://hastie.su.domains/Papers/ESLII.pdf), 2nd ed., Springer-Verlag, New York, 2009
+2. A. Glielmo, B. E. Husic, A. Rodriguez, C. Clementi, F. Noé, and A. Laio, *Chem. Rev.*, 2021, **121** (16), 9722-9758 [](https://doi.org/10.1021/acs.chemrev.0c01195)
+3. M. Ceriotti, *J. Chem. Phys.*, 2019, **150**, 150901 [](https://doi.org/10.1063/1.5091842)
+4. A. Wolf, and K. N. Kirschner, *J. Mol. Model.*, 2013, **19**, 539–549 [](http://dx.doi.org/10.1007/s00894-012-1563-4)
